@@ -16,6 +16,8 @@ When you have assured that the API translator is up and running, you can add it 
     
 (Where you change YOUR_URL with the URL your code is running)
 
+If you use an outdated version of PHP, you might not have support for JSON_PRETTY_PRINT. If you encounter this problem, just remove the pretty-print as it only makes the JSON-data human-readable and serves no other purpose.
+
 ## Screenshot
 You should now see the following widget in statusboard
 
