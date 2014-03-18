@@ -19,4 +19,4 @@ When you have assured that the API translator is up and running, you can add it 
 ## Screenshot
 You should now see the following widget in statusboard
 
-![](https://raw.github.com/christiandt/Twine-Statusboard/master/img/photo.PNG)
+![](/img/photo.PNG)
